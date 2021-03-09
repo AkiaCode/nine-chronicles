@@ -1,0 +1,26 @@
+{
+  "name": "nine-chronicles",
+  "version": "0.1.0",
+  "description": "nine chronicles api",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ./exmaple.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkiaCode/nine-chronicles.git"
+  },
+  "keywords": [
+    "nine",
+    "chronicles"
+  ],
+  "author": "Catry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AkiaCode/nine-chronicles/issues"
+  },
+  "homepage": "https://github.com/AkiaCode/nine-chronicles#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
